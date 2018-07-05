@@ -18,5 +18,5 @@ SENTENCE_START what are n't you understanding about this ? !
 y:
 what are n't you understanding about this ? ! SENTENCE_END
 [51, 27, 16, 10, 856, 53, 25, 34, 69, 1]
-Building the RNN
+
 ```
