@@ -1,5 +1,5 @@
 # rnn-by-numpy
-使用numpy实现rnn和语言模型
+使用numpy实现rnn和word-rnn
 
 1. 文章：
 * [Recurrent Neural Networks Tutorial, Part 2 – Implementing a RNN with Python, Numpy and Theano](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
@@ -20,3 +20,4 @@ what are n't you understanding about this ? ! SENTENCE_END
 [51, 27, 16, 10, 856, 53, 25, 34, 69, 1]
 
 ```
+这个思想就是word rnn，用来自动生成文本，例如写诗、写歌词等。。
